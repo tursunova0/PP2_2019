@@ -1,0 +1,7 @@
+C:\Users\Айгерим\source\repos\Week2\Task4_2\obj\Debug\Task4_2.csprojAssemblyReference.cache
+C:\Users\Айгерим\source\repos\Week2\Task4_2\obj\Debug\Task4_2.csproj.CoreCompileInputs.cache
+C:\Users\Айгерим\source\repos\Week2\Task4_2\bin\Debug\Task4_2.exe.config
+C:\Users\Айгерим\source\repos\Week2\Task4_2\bin\Debug\Task4_2.exe
+C:\Users\Айгерим\source\repos\Week2\Task4_2\bin\Debug\Task4_2.pdb
+C:\Users\Айгерим\source\repos\Week2\Task4_2\obj\Debug\Task4_2.exe
+C:\Users\Айгерим\source\repos\Week2\Task4_2\obj\Debug\Task4_2.pdb
