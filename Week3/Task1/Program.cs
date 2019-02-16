@@ -114,6 +114,7 @@ namespace Task1
                 {
                     case ConsoleKey.Delete: // на клавише delete удалить
                         history.Peek().DeleteSelectedItem();
+                        history.Peek().SelectedItem++;
                         break;
 
                     case ConsoleKey.UpArrow: // листать вверх
